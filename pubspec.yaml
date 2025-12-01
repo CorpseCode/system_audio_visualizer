@@ -1,7 +1,7 @@
 name: system_audio_visualizer
 description: A Windows audio visualizer plugin using WASAPI loopback capture, FFT processing, and customizable Flutter visualizers.
 version: 0.0.1
-homepage: https://github.com/yourname/system_audio_visualizer
+homepage: https://github.com/CorpseCode/system_audio_visualizer
 
 environment:
   sdk: ^3.10.1
